@@ -5,13 +5,13 @@ The goal of this project is to be able to utilize Google Gemini's API in order t
 To run the code:
  * Clone the repositiory: git clone https://github.com/TianyuWu-Henry/Practicum-2024-UNIQLO-Tagging.git
  * You will need a Gemini API key:
- ** Naviagte to https://ai.google.dev/
- ** You will need to sign in using a google account (Northwestern emails do not work)
- ** On the left hand side click Get an API Key
- ** Click Create API Key
- ** In the Project Search use: Generative Language Client
- ** Then click Generate API key in existing project
- ** Copy this key to add to env file in next steps 
+* Naviagte to https://ai.google.dev/
+* You will need to sign in using a google account (Northwestern emails do not work)
+* On the left hand side click Get an API Key
+* Click Create API Key
+* In the Project Search use: Generative Language Client
+* Then click Generate API key in existing project
+* Copy this key to add to env file in next steps 
  * Navigate to repository in terminal: cd Practicum-2024-UNIQLO-Tagging
  * Create a .env file that is at the same level as the Gemini Integreation Jupyter notebook
  *     vim .env
