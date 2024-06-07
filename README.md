@@ -22,4 +22,9 @@ To run the code:
  * Install all required libraries from the requirements.txt: pip install -r requirements.txt
  * Ensure the image you want to use is at the same level (Currently the script is using the ON31.webp
  * Launch Jupyter notebook: jupyter notebook
- * Run all cells in the jupyter notebook 
+ * Run all cells in the jupyter notebook
+
+Jupyter notebook - modifications as needed:
+* Change image file path
+* Change output file path
+* Prompt selected 
